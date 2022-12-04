@@ -18,3 +18,4 @@ I'm <b>Tanukii</b>, a french and young developer
 <h2 align="center"> Discord </h2>
 <img src="https://lanyard-profile-readme.vercel.app/api/670255715553902612" align="center">
 </div>
+<p>By <a href="https://github.com/StevenTedYT">StevenTed</a></</p>
