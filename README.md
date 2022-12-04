@@ -3,6 +3,7 @@
 I'm <b>Tanukii</b>, a french and young developer
 </p>
 <h2 align="center">🎨 My skills </h2>
+<h3 align="center">Languages </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -10,7 +11,6 @@ I'm <b>Tanukii</b>, a french and young developer
   <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23ffda4c"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/discord.js%20-%231572B6.svg?&style=for-the-badge&logo=discord.js&logoColor=white"/>
 <div align="center">
 <h2 align="center">📞 Contact me </h2>
 <p align="center">
