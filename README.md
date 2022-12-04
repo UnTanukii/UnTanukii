@@ -14,7 +14,7 @@ I'm <b>Tanukii</b>, a french and young developer
 <h3 align="center">Framework </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/discord.js%20-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rageui%20-%23323330.svg?&style=for-the-badge&logo=rageui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rageui%20-%23323330.svg?&style=for-the-badge&logo=fivem&logoColor=white"/>
 <div align="center">
 <h2 align="center">📞 Contact me </h2>
 <p align="center">
