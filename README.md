@@ -14,7 +14,6 @@ I'm <b>Tanukii</b>, a french and young developer
 <p align="center">
 <img src="https://img.shields.io/badge/@Tanukii%237115%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 <img src="http://img.shields.io/badge/UnTanukii%20-%231c9af0.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  <img src="http://img.shields.io/badge/UnTanukii%20-%231c9af0.svg?&style=for-the-badge&logo=web&logoColor=white"/>
 </p>
 <h2 align="center"> Discord </h2>
 <img src="https://lanyard-profile-readme.vercel.app/api/670255715553902612" align="center">
