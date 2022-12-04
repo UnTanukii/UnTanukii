@@ -15,7 +15,7 @@ I'm <b>Tanukii</b>, a french and young developer
   <img src="https://img.shields.io/badge/discord.js%20-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/rageui%20-%23323330.svg?&style=for-the-badge&logo=fivem&logoColor=white"/>
   <img src="https://img.shields.io/badge/esx%20-%23323330.svg?&style=for-the-badge&logo=fivem&logoColor=white"/>
-<h3 align="center">Tools used </h3>
+<h3 align="center">Tools </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/visual studio code%20-%23323330.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=white"/>
