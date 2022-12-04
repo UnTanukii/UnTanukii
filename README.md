@@ -5,7 +5,6 @@ I'm <b>Tanukii</b>, a french and young developer
 <h2 align="center">🎨 My skills </h2>
 <h3 align="center">Languages </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%2343853D"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/lua%20-%23323330.svg?&style=for-the-badge&logo=lua&logoColor=%237575D0"/>
   <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23ffda4c"/>
