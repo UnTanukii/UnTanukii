@@ -1,6 +1,6 @@
-<h1 align="center">Hellow! 👋</h1>
+<h1 align="center">Helloo ! 👋</h1>
 <p align="center">
-i'm <b>Tanukii</b>, a french developer
+I'm <b>Tanukii</b>, a french and young developer
 </p>
 <h2 align="center">🎨 My skills </h2>
 <p align="center">
