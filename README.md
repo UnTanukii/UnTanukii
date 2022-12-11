@@ -22,7 +22,6 @@ I'm <b>Tanukii</b>, a french and young developer
   <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe photoshop%20-%23323330.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe illustrator%20-%23323330.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 <div align="center">
 <h2 align="center">📞 Contact me </h2>
 <p align="center">
