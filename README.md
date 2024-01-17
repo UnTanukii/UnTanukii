@@ -10,7 +10,7 @@ I'm <b>Tanukii</b>, a french and young developer
   <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23ffda4c"/>
   <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26"/>
   <img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6"/>
-  <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%231572B6"/>
+  <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php"/>
 <h3 align="center">Frameworks </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/discord.js%20-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
