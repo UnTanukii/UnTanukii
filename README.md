@@ -13,16 +13,16 @@ I'm <b>Tanukii</b>, a french and young developer. <br><br>I speak french, englis
   <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php"/>
 <h3 align="center">Frameworks </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/discord.js%20-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rageui%20-%23323330.svg?&style=for-the-badge&logo=fivem&logoColor=white"/>
-  <img src="https://img.shields.io/badge/esx%20-%23323330.svg?&style=for-the-badge&logo=fivem&logoColor=white"/>
+  <img src="https://img.shields.io/badge/discord.js%20-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=%235d6af2"/>
+  <img src="https://img.shields.io/badge/rageui%20-%23323330.svg?&style=for-the-badge&logo=fivem&logoColor=%23e27521"/>
+  <img src="https://img.shields.io/badge/esx%20-%23323330.svg?&style=for-the-badge&logo=fivem&logoColor=%23e27521"/>
 <h3 align="center">Tools </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/visual studio code%20-%23323330.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=%2346a9ee"/>
   <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=%23f15639"/>
   <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%2358a149"/>
   <img src="https://img.shields.io/badge/figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=%23f74a11"/>
-  <img src="https://img.shields.io/badge/adobe photoshop%20-%23323330.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=%23001d34"/>
+  <img src="https://img.shields.io/badge/adobe photoshop%20-%23323330.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=%232fa3f7"/>
 <div align="center">
 <h2 align="center">📞 Contact me </h2>
 <p align="center">
