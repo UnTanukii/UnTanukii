@@ -21,8 +21,8 @@ I'm <b>Tanukii</b>, a french and young developer. <br><br>I speak french, englis
   <img src="https://img.shields.io/badge/visual studio code%20-%23323330.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=%2346a9ee"/>
   <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=%23f15639"/>
   <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%2358a149"/>
-  <img src="https://img.shields.io/badge/figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=%23f74a11"/>
-  <img src="https://img.shields.io/badge/adobe photoshop%20-%23323330.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=%232fa3f7"/>
+  <img src="https://img.shields.io/badge/figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe photoshop%20-%23323330.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=%230bacf4"/>
 <div align="center">
 <h2 align="center">📞 Contact me </h2>
 <p align="center">
