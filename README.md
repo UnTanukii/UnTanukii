@@ -1,7 +1,6 @@
 <h1 align="center">Helloo ! 👋</h1>
 <p align="center">
-I'm <b>Tanukii</b>, a french and young developer.
-I do development every day but keep almost everything private (sorry).
+I'm <b>Tanukii</b>, a french and young developer. I do development every day but keep almost everything private (sorry). I speak french, english and a little spanish.
 </p>
 <h2 align="center">🎨 My skills </h2>
 <h3 align="center">Languages </h3>
