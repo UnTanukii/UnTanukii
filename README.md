@@ -26,6 +26,6 @@ I'm <b>Tanukii</b>, a french and young developer. <br><br>I speak french, englis
   <img src="https://img.shields.io/badge/adobe photoshop%20-%23323330.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=%231a73f7"/>
 <div align="center">
 <h2 align="center"> Discord </h2>
-<img src="https://lanyard-profile-readme.vercel.app/api/670255715553902612?theme=dark&bg=1a2330" align="center">
+<img src="https://lanyard-profile-readme.vercel.app/api/670255715553902612?theme=dark&bg=1a2330&idleMessage=Probably%20doing%20something%20else..." align="center">
 </div>
 <p>By <a href="https://github.com/StevenTedYT">StevenTed</a></</p>
