@@ -24,21 +24,21 @@
   &nbsp;
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="38" width="38"></a>
   &nbsp;
-  <br>
   <a href="https://lua.org/"><img src="https://skillicons.dev/icons?i=lua" height="38" width="38"></a>
   &nbsp;
+  <br>
   <a href="https://python.org/"><img src="https://skillicons.dev/icons?i=python" height="38" width="38"></a>
   &nbsp;
   <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://skillicons.dev/icons?i=flask" height="38" width="38"></a>
   &nbsp;
   <a href="https://php.net/"><img src="https://skillicons.dev/icons?i=php" height="38" width="38"></a>
   &nbsp;
+  <a href="https://mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="38" width="38"></a>
+  &nbsp;
   <a href="https://w3.org/html"><img src="https://skillicons.dev/icons?i=html" height="38" width="38"></a>
   &nbsp;
-  <a href="https://w3schools.com/css"><img src="https://skillicons.dev/icons?i=css" height="38" width="38"></a>
-  &nbsp;
   <br>
-  <a href="https://mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="38" width="38"></a>
+  <a href="https://w3schools.com/css"><img src="https://skillicons.dev/icons?i=css" height="38" width="38"></a>
   &nbsp;
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="38" width="38"></a>
   &nbsp;
@@ -49,5 +49,7 @@
   <a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="38" width="38"></a>
   &nbsp;
   <a href="https://adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://notion.so/"><img src="https://skillicons.dev/icons?i=notion" height="38" width="38"></a>
 </div>
 </div>
