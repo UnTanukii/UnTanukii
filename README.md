@@ -3,8 +3,6 @@
   <h2> a french and young developer</h3>
   <br><br>
 
----
-
 <h3>Languages, Tools & Frameworks</h3>
 <div>
   <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="26" width="26"></a>
