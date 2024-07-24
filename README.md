@@ -5,7 +5,7 @@
 
 <h3>Languages, Tools & Frameworks</h3>
 <div>
-  <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="26" width="26"></a>
+  <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="32" width="32"></a>
   &nbsp;
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="26" width="26"></a>
   &nbsp;
