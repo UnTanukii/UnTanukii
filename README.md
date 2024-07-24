@@ -4,6 +4,16 @@
   <br>
   <a href="https://discord.com/users/670255715553902612"><img src="https://lanyard.cnrad.dev/api/670255715553902612?hideActivity=true&borderRadius=10px"/></a>
   <br><br>
+
+---
+<h3>Socials</h3>
+<div>
+  <a href="https://dsc.gg/untanukii"><img src="https://skillicons.dev/icons?i=discord" height="38" width="38"></a>
+  &nbsp;
+  <a href="https://twitter.com/untanukii"><img src="https://skillicons.dev/icons?i=twitter" height="38" width="38"></a>
+  &nbsp;
+</div>
+
 <h3>Languages, Tools & Frameworks</h3>
 <div>
   <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="38" width="38"></a>
