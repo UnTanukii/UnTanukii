@@ -1,8 +1,6 @@
 <div id="UnTanukii" align="center">
   <h3> Hi there, I'm <b>tanukii</b> 👋 </h3>
   <h4> a french and young developer</h4>
-  <h4> I speak french, english and a little spanish</h4>
-  <h5> I try to develop every day but I keep almost everything private (sorry)</h5>
   <br>
   <a href="https://discord.com/users/670255715553902612"><img src="https://lanyard.cnrad.dev/api/670255715553902612?hideActivity=true&borderRadius=10px"/></a>
   <br><br>
