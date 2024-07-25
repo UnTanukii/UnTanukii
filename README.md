@@ -26,17 +26,17 @@
   &nbsp;
   <a href="https://lua.org/"><img src="https://skillicons.dev/icons?i=lua" height="38" width="38"></a>
   &nbsp;
-  <br>
   <a href="https://python.org/"><img src="https://skillicons.dev/icons?i=python" height="38" width="38"></a>
   &nbsp;
   <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://skillicons.dev/icons?i=flask" height="38" width="38"></a>
   &nbsp;
+  <br>
   <a href="https://php.net/"><img src="https://skillicons.dev/icons?i=php" height="38" width="38"></a>
   &nbsp;
   <a href="https://mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="38" width="38"></a>
   &nbsp;
   <a href="https://notion.so/"><img src="https://skillicons.dev/icons?i=notion" height="38" width="38"></a>
-  <br>
+  &nbsp;
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="38" width="38"></a>
   &nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="38" width="38"></a>
