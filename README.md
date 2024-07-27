@@ -30,6 +30,8 @@
   &nbsp;
   <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://skillicons.dev/icons?i=flask" height="38" width="38"></a>
   &nbsp;
+  <a href="https://www.microsoft.com/en-US/windows"><img src="https://skillicons.dev/icons?i=windows" height="38" width="38"></a>
+  &nbsp;
   <br>
   <a href="https://php.net/"><img src="https://skillicons.dev/icons?i=php" height="38" width="38"></a>
   &nbsp;
