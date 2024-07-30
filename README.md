@@ -1,52 +1,52 @@
-<div id="UnTanukii" align="center">
-  <h3> Hi there, I'm <b>tanukii</b> 👋 </h3>
-  <h4> a french and young developer</h4>
-  <br>
-  <a href="https://discord.com/users/670255715553902612"><img src="https://lanyard.cnrad.dev/api/670255715553902612?hideActivity=true&borderRadius=10px"/></a>
-  <br><br>
+# Hi there, I'm **tanukii** 👋
+
+- 🌟 I'm a young developer with a passion for exploring all areas of tech, without a specific focus
+
+- 🔒 I love coding, but I keep most of it private (sorry)
+
+- 🌎 Speak 🇫🇷 🇺🇸 🇪🇸
+
+[![Discord User](https://lanyard.cnrad.dev/api/670255715553902612?hideActivity=true&borderRadius=10px)](https://discord.com/users/670255715553902612)
 
 ---
-<h3>Socials</h3>
-<div>
-  <a href="https://dsc.gg/untanukii"><img src="https://skillicons.dev/icons?i=discord" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://twitter.com/untanukii"><img src="https://skillicons.dev/icons?i=twitter" height="38" width="38"></a>
-  &nbsp;
-</div>
 
-<h3>Languages, Tools & Frameworks</h3>
-<div>
-  <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://discord.js.org/"><img src="https://skillicons.dev/icons?i=discordjs" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://lua.org/"><img src="https://skillicons.dev/icons?i=lua" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://python.org/"><img src="https://skillicons.dev/icons?i=python" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://skillicons.dev/icons?i=flask" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://www.microsoft.com/en-US/windows"><img src="https://skillicons.dev/icons?i=windows" height="38" width="38"></a>
-  &nbsp;
-  <br>
-  <a href="https://php.net/"><img src="https://skillicons.dev/icons?i=php" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://notion.so/"><img src="https://skillicons.dev/icons?i=notion" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="38" width="38"></a>
-  &nbsp;
-  <a href="https://adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="38" width="38"></a>
-</div>
-</div>
+## Socials
+
+[![Discord](https://skillicons.dev/icons?i=discord)](https://dsc.gg/untanukii)
+&nbsp;
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/untanukii)
+
+## Languages, Tools & Frameworks
+
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://javascript.com)
+&nbsp;
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+&nbsp;
+[![Discord.js](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
+&nbsp;
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+&nbsp;
+[![Lua](https://skillicons.dev/icons?i=lua)](https://lua.org/)
+&nbsp;
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
+&nbsp;
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/)
+&nbsp;
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-US/windows)
+&nbsp;
+<br>
+[![PHP](https://skillicons.dev/icons?i=php)](https://php.net/)
+&nbsp;
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
+&nbsp;
+[![Notion](https://skillicons.dev/icons?i=notion)](https://notion.so/)
+&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+&nbsp;
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+&nbsp;
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+&nbsp;
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
+&nbsp;
+[![Photoshop](https://skillicons.dev/icons?i=photoshop)](https://adobe.com/products/photoshop.html)
