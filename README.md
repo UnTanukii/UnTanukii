@@ -53,4 +53,4 @@
 
 ## Stats
 
-<img align="left" alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime/?username=untanukii&theme=discord_old_blurple&layout=compact" />
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime/?username=untanukii&theme=discord_old_blurple&layout=compact)](https://wakatime.com/@untanukii)
