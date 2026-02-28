@@ -50,7 +50,3 @@
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
 &nbsp;
 [![Photoshop](https://skillicons.dev/icons?i=photoshop)](https://adobe.com/products/photoshop.html)
-
-## Stats
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime/?username=untanukii&theme=discord_old_blurple&layout=compact)](https://wakatime.com/@untanukii)
